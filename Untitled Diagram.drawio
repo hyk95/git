@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:58:44.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="OoIsTRZdNVM8i9aWxLC5" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:58:51.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KSzWy_LgDELJ09mVSspC" version="14.2.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="624" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry x="710" y="310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-66" value="保函开立" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="426" width="94" height="40" as="geometry" />
+          <mxGeometry x="587" y="425" width="94" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
