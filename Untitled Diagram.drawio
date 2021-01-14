@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:22:25.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="XrKSR0razer9wb31LL7s" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:23:00.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="YkNZ30rcyvC04ShtpCDH" version="14.2.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,6 +98,12 @@
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-40" value="保费支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="120" width="150" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-42" value="公共资源交易中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="727" y="130" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
