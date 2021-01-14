@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:08:08.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="diTUEDFDQYrtsADpQsb-" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T12:12:04.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7EOsmzULbJsbHZL5uIwl" version="14.2.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1092" dy="2085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="520" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,19 +22,19 @@
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-5" value="电子保函交易平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="129" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-7" value="矿业权保函" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-7" value="矿业权保函" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="590" y="128" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-8" value="履约保函" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-8" value="履约保函" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="492" y="128" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-9" value="投标保函" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-9" value="投标保函" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="392" y="128" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-10" value="工程质量保函" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-10" value="工程质量保函" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="392" y="173" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-11" value="农民工工资保函" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-11" value="农民工工资保函" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="492" y="173" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
@@ -43,73 +43,73 @@
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-19" value="金融机构平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-20" value="保函解除审核" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-20" value="保函解除审核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="587" y="370" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;保函申请审核&lt;/span&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;保函申请审核&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="370" y="426" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-22" value="金融产品管理" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-22" value="金融产品管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-23" value="保函延期审核" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-23" value="保函延期审核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="480" y="426" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-24" value="保函企业评价" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-24" value="保函企业评价" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="357" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-28" value="线上保函服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="102" y="372" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-38" value="登录网银确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-38" value="登录网银确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82" y="394" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-39" value="申请审核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-39" value="申请审核" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="82" y="427" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-40" value="保费支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-40" value="保费支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82" y="457" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-42" value="公共资源交易中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="727" y="130" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-43" value="金融产品发布/浏览" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-43" value="金融产品发布/浏览" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="280" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-44" value="评价核验" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-44" value="评价核验" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="183" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-45" value="业绩统计/业务统计" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-45" value="业绩统计/业务统计" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="380" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-46" value="农民工工资受益人维护" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-46" value="农民工工资受益人维护" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="426" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-58" value="金融产品浏览" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-58" value="金融产品浏览" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="391" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-59" value="保函申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-59" value="保函申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="492" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-60" value="保函解除申请" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-60" value="保函解除申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="590" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-61" value="保函延期申请" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-61" value="保函延期申请" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="493" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-62" value="保函退还记录" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-62" value="保函退还记录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-64" value="已开标保函明细" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-64" value="已开标保函明细" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#333333;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="230" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-65" value="金融产品发布/浏览" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-65" value="金融产品发布/浏览" style="text;whiteSpace=wrap;html=1;align=center;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="330" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-66" value="保函开立" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-66" value="保函开立" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="587" y="425" width="94" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-68" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="SAyuNfvIMWp1K3p_h0Z0-4" target="SAyuNfvIMWp1K3p_h0Z0-4">
