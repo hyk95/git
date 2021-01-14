@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:31:29.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="rCXPgN4kfaoVUaejZp31" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:32:45.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="YVrkMHCoug2b4gKM56DS" version="14.2.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SAyuNfvIMWp1K3p_h0Z0-54" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="128" y="40" width="742" height="460" as="geometry" />
+        </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="120" width="160" height="190" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="140" y="120" width="218" height="190" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;山东省公共资源交易电子保函服务平台&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="352" y="50" width="340" height="20" as="geometry" />
+          <mxGeometry x="320" y="60" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-5" value="电子保函交易平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="130" width="100" height="20" as="geometry" />
