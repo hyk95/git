@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:11:06.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="yqqNBm5wynBr8QlzaEv8" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:11:21.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="bzTNXMq1Y4ButNOU3QQ4" version="14.2.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="270" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-8" value="履约保函" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="270" y="160" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-9" value="投标保函" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="160" width="60" height="40" as="geometry" />
+          <mxGeometry x="170" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SAyuNfvIMWp1K3p_h0Z0-10" value="工程质量保函" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="169" y="210" width="90" height="40" as="geometry" />
