@@ -1,24 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T03:21:38.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lgQHdMdufWkWYLRwY7_p" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:22:55.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="w8pjyNfo7maYRLyhWR_8" version="24.6.5" type="github">
   <diagram name="第 1 页" id="jYzNTIqj58scbmequCgL">
     <mxGraphModel dx="911" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XLkg81pJtROMtvlLPJwn-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-1" target="XLkg81pJtROMtvlLPJwn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLkg81pJtROMtvlLPJwn-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-1" target="XLkg81pJtROMtvlLPJwn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-1" value="数据使用方（编标系统）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-2" target="XLkg81pJtROMtvlLPJwn-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="100" />
+              <mxPoint x="251" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XLkg81pJtROMtvlLPJwn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-2" target="XLkg81pJtROMtvlLPJwn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-2" value="数据集配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="55" width="110" height="30" as="geometry" />
+          <mxGeometry x="121" y="55" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-3" value="自增数据集" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="30" width="110" height="30" as="geometry" />
+          <mxGeometry x="251" y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-4" target="XLkg81pJtROMtvlLPJwn-6">
           <mxGeometry relative="1" as="geometry" />
@@ -27,18 +36,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-4" value="业务数据集" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="85" width="110" height="30" as="geometry" />
+          <mxGeometry x="251" y="85" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-5" value="api数据集" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="394" y="41" width="110" height="30" as="geometry" />
+          <mxGeometry x="405" y="41" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-6" value="自定义数据集" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="394" y="86" width="110" height="30" as="geometry" />
+          <mxGeometry x="405" y="86" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-7" value="同源数据集" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="394" y="126" width="110" height="30" as="geometry" />
+          <mxGeometry x="405" y="126" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-4" target="XLkg81pJtROMtvlLPJwn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLkg81pJtROMtvlLPJwn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XLkg81pJtROMtvlLPJwn-11" target="XLkg81pJtROMtvlLPJwn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-11" value="数据配置方（范本系统）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -78,6 +90,9 @@
         </mxCell>
         <mxCell id="XLkg81pJtROMtvlLPJwn-23" value="同源数据值" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="284" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XLkg81pJtROMtvlLPJwn-29" value="获取数据集配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
